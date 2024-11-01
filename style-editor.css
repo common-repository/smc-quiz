@@ -1,0 +1,8 @@
+.editor-styles-wrapper li.is-style-smc-correct{
+    list-style-type: "\2713";
+    margin-left:-4px
+}
+
+.editor-styles-wrapper li.is-style-smc-correct > div{
+    padding-left:4px
+}
